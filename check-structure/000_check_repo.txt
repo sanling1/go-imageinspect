@@ -1,0 +1,3 @@
+# Checking existing files
+
+Let me examine the repo to understand the bake file structure.
